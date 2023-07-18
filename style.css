@@ -1,0 +1,25 @@
+.container {
+    width: 500px;
+    height: 300px;
+    border: solid 1px black;
+}
+
+.item {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.box {
+    width: 400px;
+    height: 300px;
+    border: solid 1px blue;
+    position: relative;
+}
+
+.item-1 {
+    width: 500px;
+    height: 300px;
+    border: solid 1px red;   
+}
+
